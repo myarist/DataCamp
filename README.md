@@ -269,3 +269,7 @@
 ---
 
 ![](README/complete.png)
+
+<p align="center">
+  You can visit my DataCamp profile with <a href="https://www.datacamp.com/profile/myarist">this link</a>.
+</p>
