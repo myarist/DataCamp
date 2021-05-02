@@ -160,6 +160,22 @@
 
 ![](README/interface.png)
 
+## [[🔍](https://learn.datacamp.com/skill-tracks/data-literacy-fundamentals?version=2)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/c2d60b974e3b2e5c59890ff60b0866a987f4ccde)] Data Literacy Fundamentals
+
+<details><summary>Module List</summary>
+
+- [[❌]()] [[🔍](https://learn.datacamp.com/courses/data-science-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/67f7c3b6e3470cc8b5358c51be6f8db0871d79d3)] Data Science for Everyone
+
+- [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/For%20Everyone/Machine%20Learning%20for%20Everyone)] [[🔍](https://learn.datacamp.com/courses/machine-learning-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/59b790b07c5ed69ed0c2dbcce693701520c323f1)] Machine Learning for Everyone
+
+- [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/For%20Everyone/Data%20Visualization%20for%20Everyone)] [[🔍](https://learn.datacamp.com/courses/data-visualization-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/dcb23a83c0e6431a8dd2db5aaf58543953382c5b)] Data Visualization for Everyone
+
+- [[❌]()] [[🔍](https://learn.datacamp.com/courses/data-engineering-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/d5a7bff6a29b5e8d7cc9bc524cafbcf99c8045ba)] Data Engineering for Everyone
+
+- [[❌]()] [[🔍](https://learn.datacamp.com/courses/cloud-computing-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/edee2f7f1465cff34bb80650a0a0cfc12c4b95ae)] Cloud Computing for Everyone
+
+</details>
+
 ## [[🔍](https://learn.datacamp.com/skill-tracks/python-fundamentals?version=1)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/e5ef4a65961acda1f120cb217916ec6e8db7a1a4)] Python Fundamentals
 
 <details><summary>Module List</summary>
@@ -201,22 +217,6 @@
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/postgresql-summary-stats-and-window-functions)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/6cfefc569d57349e1cf672070c7ece2b8278ded9)] PostgreSQL Summary Stats and Window Functions
 
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/functions-for-manipulating-data-in-postgresql)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/81fa7ca1ed26f5af5cb589226f3901f2572f6da6)] Functions for Manipulating Data in PostgreSQL
-
-</details>
-
-## [[🔍](https://learn.datacamp.com/skill-tracks/data-literacy-fundamentals?version=2)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/c2d60b974e3b2e5c59890ff60b0866a987f4ccde)] Data Literacy Fundamentals
-
-<details><summary>Module List</summary>
-
-- [[❌]()] [[🔍](https://learn.datacamp.com/courses/data-science-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/67f7c3b6e3470cc8b5358c51be6f8db0871d79d3)] Data Science for Everyone
-
-- [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/For%20Everyone/Machine%20Learning%20for%20Everyone)] [[🔍](https://learn.datacamp.com/courses/machine-learning-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/59b790b07c5ed69ed0c2dbcce693701520c323f1)] Machine Learning for Everyone
-
-- [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/For%20Everyone/Data%20Visualization%20for%20Everyone)] [[🔍](https://learn.datacamp.com/courses/data-visualization-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/dcb23a83c0e6431a8dd2db5aaf58543953382c5b)] Data Visualization for Everyone
-
-- [[❌]()] [[🔍](https://learn.datacamp.com/courses/data-engineering-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/d5a7bff6a29b5e8d7cc9bc524cafbcf99c8045ba)] Data Engineering for Everyone
-
-- [[❌]()] [[🔍](https://learn.datacamp.com/courses/cloud-computing-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/edee2f7f1465cff34bb80650a0a0cfc12c4b95ae)] Cloud Computing for Everyone
 
 </details>
 
