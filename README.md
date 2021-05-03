@@ -30,7 +30,7 @@
 
 ## 💻 Introduction
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Introductions/Introduction%20to%20Python)] [[🔍](https://learn.datacamp.com/courses/intro-to-python-for-data-science)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/9baefd4dba2ade2588e500c7aaa3633262f74532)] Introduction to Python
 
@@ -52,7 +52,7 @@
 
 ## 👩🏻‍🤝‍👩🏻 For Everyone
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/For%20Everyone/Data%20Visualization%20for%20Everyone)] [[🔍](https://learn.datacamp.com/courses/data-visualization-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/dcb23a83c0e6431a8dd2db5aaf58543953382c5b)] Data Visualization for Everyone
 
@@ -72,7 +72,7 @@
 
 ## 🎓 Intermediate
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Intermediate/Intermediate%20Python)] [[🔍](https://learn.datacamp.com/courses/intermediate-python)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/3d2adb5262e4665367fac9227122d5ac4e2a306b)] Intermediate Python
 
@@ -88,7 +88,7 @@
 
 ## 🔢 Data Manipulation
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/joining-data-in-postgresql)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/bd5e6bcd7d649e91a7842a9bef063421641c3629)] Joining Data in SQL
 
@@ -108,7 +108,7 @@
 
 ## 👨🏻‍💻 Programming
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Programming/Writing%20Functions%20in%20Python)] [[🔍](https://learn.datacamp.com/courses/writing-functions-in-python)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/9be020b98c3c05c1e5d5bfcf6ac84fdad6ffe3f7)] Writing Functions in Python
 
@@ -130,7 +130,7 @@
 
 ## 🧠 Machine Learning
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Machine%20Learning/Supervised%20Learning%20with%20scikit-learn)] [[🔍](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/43e197af4aeb51f401604a42fc085241cb507076)] Supervised Learning with scikit-learn
 
@@ -144,7 +144,7 @@
 
 ## 📝 Case Study
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Case%20Study/Analyzing%20Police%20Activity%20with%20pandas)] [[🔍](https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/a6a74c818b453bc37887b0209ecd21db81bf91b8)] Analyzing Police Activity with pandas
 
@@ -162,7 +162,7 @@
 
 ## [[🔍](https://learn.datacamp.com/skill-tracks/data-literacy-fundamentals?version=2)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/c2d60b974e3b2e5c59890ff60b0866a987f4ccde)] Data Literacy Fundamentals
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/data-science-for-everyone)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/67f7c3b6e3470cc8b5358c51be6f8db0871d79d3)] Data Science for Everyone
 
@@ -178,7 +178,7 @@
 
 ## [[🔍](https://learn.datacamp.com/skill-tracks/python-fundamentals?version=1)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/e5ef4a65961acda1f120cb217916ec6e8db7a1a4)] Python Fundamentals
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Introductions/Introduction%20to%20Python)] [[🔍](https://learn.datacamp.com/courses/intro-to-python-for-data-science)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/9baefd4dba2ade2588e500c7aaa3633262f74532)] Introduction to Python
 
@@ -192,7 +192,7 @@
 
 ## [[🔍](https://learn.datacamp.com/skill-tracks/r-programming?version=2)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/cfa899b3e069b6653bd65b8da5d5075301dac8cb)] R Programming
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/free-introduction-to-r)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/b3e170ddd14ad89cc91ac28391ae621f29169098)] Introduction to R
 
@@ -206,7 +206,7 @@
 
 ## [[🔍](https://learn.datacamp.com/skill-tracks/sql-fundamentals?version=2)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/b6842c29e70f3917bcb882bb0c2d20767b45073e)] SQL Fundamentals
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://learn.datacamp.com/courses/introduction-to-sql)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/5b4932f5eedb86884cf9869f2a0c95b32a147c8e)] Introduction to SQL
 
@@ -230,7 +230,7 @@
 
 ## [[🔍](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=5)] [[📃](https://www.datacamp.com/statement-of-accomplishment/track/12b063065c94b36cea812fe1bcca3be0faac0e9b)] Data Scientist with Python
 
-<details><summary>Module List</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/myarist/DataCamp/tree/main/Courses/Introductions/Introduction%20to%20Python)] [[🔍](https://learn.datacamp.com/courses/intro-to-python-for-data-science)] [[📃](https://www.datacamp.com/statement-of-accomplishment/course/9baefd4dba2ade2588e500c7aaa3633262f74532)] Introduction to Python
 
